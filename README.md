@@ -1,4 +1,5 @@
-# 🔥 BUG FLOOD 2026 ###  CVEs de Pesquisadores Brssileiros
+# 🔥 BUG FLOOD 2026 ###  
+CVEs de Pesquisadores Brssileiros
 
 <img width="512" height="739" alt="image" src="https://github.com/user-attachments/assets/4131f948-2d75-4b4d-a64a-c52b9ceb7a09" />
 
